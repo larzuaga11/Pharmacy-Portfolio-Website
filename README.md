@@ -14,7 +14,7 @@ A personal portfolio website for a pharmacy student to showcase their knowledge,
 - Styling: TailwindCSS for a clean and modern look
 - Hosting: Netlify 
 
-📸 Website Image
+## 📸 Website Image
 ![Portfolio Screenshot](images/websiteIMG.png)
 
 🔗 **Website Link**
