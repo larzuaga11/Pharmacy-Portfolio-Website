@@ -9,7 +9,7 @@ A personal portfolio website for a pharmacy student to showcase their knowledge,
 - ✅ Skills & Expertise – Areas of specialization in pharmacy, medicine, and healthcare
 - ✅ Contact Information – Easy way for recruiters, professors, or professionals to get in touch
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Frontend: React with HTML, CSS and JavaScript 
 - Styling: TailwindCSS for a clean and modern look
 - Hosting: Netlify 
@@ -17,7 +17,7 @@ A personal portfolio website for a pharmacy student to showcase their knowledge,
 📸 Website Image
 ![Portfolio Screenshot](images/websiteIMG.png)
 
-🔗 Website 
-Website Link: https://rarzuagaportfolio.netlify.app/
+🔗 **Website Link**
+[View Portfolio](https://rarzuagaportfolio.netlify.app/)
 
 
